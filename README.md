@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmad9652
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on everyone to learn
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate with everyone to learn
 - 📫 How to reach me ahmadseemapuri@gmail.com
 
 <!---
