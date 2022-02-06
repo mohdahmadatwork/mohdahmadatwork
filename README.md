@@ -2,7 +2,10 @@
 <h3 align="center">A passionate coder from India</h3>
 
 - 🔭 I’m currently working on [BlogBySMA](https://blogbysma9652.pythonanywhere.com/)
-
+- My First Project [ToDoBySMA](https://todobysma.pythonanywhere.com/)
+- My Second Project [ToDoBySMA2.0](https://todobysma9652.pythonanywhere.com/)
+- My Third Project [DiaryBySMA](https://diarybysma.pythonanywhere.com/)
+- My Fourth Project [BlogBySMA](https://blogbysma9652.pythonanywhere.com/)
 - 📫 How to reach me **ahmadseemapuri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
