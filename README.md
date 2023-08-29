@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohd. Ahmad</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🔭 I’m currently working on [BlogBySMA](https://blogbysma9652.pythonanywhere.com/)
+- 🔭 I’m currently working on [SMAContacts](https://ahmad9652.github.io/SMAContacts/)
 - My First Project [ToDoBySMA](https://todobysma.pythonanywhere.com/)
 - My Second Project [ToDoBySMA2.0](https://todobysma9652.pythonanywhere.com/)
 - My Third Project [DiaryBySMA](https://diarybysma.pythonanywhere.com/)
 - My Fourth Project [BlogBySMA](https://blogbysma9652.pythonanywhere.com/)
-- 📫 How to reach me **ahmadseemapuri@gmail.com**
+- 📫 How to reach me **mohdahmadatwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
