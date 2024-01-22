@@ -18,9 +18,6 @@
 
 - ⚡ Fun fact **My keyboard clicking rhythm rivals the beat of a rock ballad. Come jam on code with me!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
