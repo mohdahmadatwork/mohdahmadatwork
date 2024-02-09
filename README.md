@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohdahmadatwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdahmadatwork" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd-ahmad-seemapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-ahmad-seemapuri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-ahmad-at-work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-ahmad-at-work" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmad_sheikh_2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_sheikh_2019" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmadseemapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadseemapuri" height="30" width="40" /></a>
+<a href="https://medium.com/@mohdahmadatwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadseemapuri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmadseemapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmadseemapuri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohd_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohd_ahmad" height="30" width="40" /></a>
 </p>
