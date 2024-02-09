@@ -2,13 +2,13 @@
 <h3 align="center">Code whisperer by day, future tech mogul by night.</h3>
 
 
-- 🔭 I’m currently working on [SMAContact](https://ahmad9652.github.io/SMAContacts/)
+- 🔭 I’m currently working on [SMAContact](https://mohdahmadatwork.github.io/SMAContacts/)
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://ahmad9652.github.io/resume/)
+- 👨‍💻 All of my projects are available at [Resume](https://mohdahmadatwork.github.io/resume/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@ahmadseemapuri)
+- 📝 I regularly write articles on [Medium](https://medium.com/@mohdahmadatwork)
 
 - 💬 Ask me about **MERN / Django**
 
